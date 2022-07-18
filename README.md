@@ -1,6 +1,6 @@
 # <a href="#" target="_blank">Order Bot</a>
 
-Order Bot is system where user can order from restaurant and do payment via paypal.
+Order Bot is system where user can order from restaurant.
 
 To run:
 
