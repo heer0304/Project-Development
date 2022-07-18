@@ -1,6 +1,7 @@
 # <a href="#" target="_blank">Order Bot</a>
 
-This is Redme file change on dev1 branch.
+Order Bot is system where user can order from restaurant and do payment via paypal.
+
 To run:
 
 First you have to dowmload zip or clone repository in visual studio code.
